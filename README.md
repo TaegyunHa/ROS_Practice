@@ -1,6 +1,6 @@
 # ROS_Practice
 
-### ROS Publisher
+### ROS Publisher **[C++]**
 ```cpp
 #include <ros/ros.h>
 #include <std_msgs/Int64.h>
@@ -22,7 +22,7 @@ int main (int argc, char **argv)
 }
 ```
 
-### ROS Subscriber/Publisher
+### ROS Subscriber/Publisher **[Python]**
 ```python
 #!/usr/bin/env python
 
