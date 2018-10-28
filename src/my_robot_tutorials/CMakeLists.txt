@@ -11,6 +11,8 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
   std_msgs
+  std_srvs
+  rospy_tutorials
 )
 
 ## System dependencies are found with CMake's conventions
@@ -146,6 +148,12 @@ target_link_libraries(smartphone_node ${catkin_LIBRARIES})
 
 add_executable(number_publisher_node src/number_publisher_node.cpp)
 target_link_libraries(number_publisher_node ${catkin_LIBRARIES})
+
+add_executable(add_two_ints_server src/add_two_ints_server.cpp)
+target_link_libraries(add_two_ints_server ${catkin_LIBRARIES})
+
+add_executable(add_two_ints_client src/add_two_ints_client.cpp)
+target_link_libraries(add_two_ints_client ${catkin_LIBRARIES})
 
 
 ## Rename C++ executable without prefix
