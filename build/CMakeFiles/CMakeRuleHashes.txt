@@ -1,12 +1,25 @@
 # Hashes of file build rules.
+206875110d3e7c9866b25e5c78a45a9f /home/tg/catkin_ws/devel/include/my_robot_msgs/ComputeDiskArea.h
+f91b3788017adc366373ca8afcc9ca41 /home/tg/catkin_ws/devel/include/my_robot_msgs/ControlLED.h
 960a799446cc51f12df90871589bc169 /home/tg/catkin_ws/devel/include/my_robot_msgs/HardwareStatus.h
 1c51f1df06b1f19905cbec455b5f7191 /home/tg/catkin_ws/devel/lib/python2.7/dist-packages/my_robot_msgs/msg/_HardwareStatus.py
 a60bc34107a722c20225c2488e49c614 /home/tg/catkin_ws/devel/lib/python2.7/dist-packages/my_robot_msgs/msg/__init__.py
+6ce34966514f223fb07f87b90823028f /home/tg/catkin_ws/devel/lib/python2.7/dist-packages/my_robot_msgs/srv/_ComputeDiskArea.py
+ed305e7c1d17790a0d87991e7940071e /home/tg/catkin_ws/devel/lib/python2.7/dist-packages/my_robot_msgs/srv/_ControlLED.py
+a326e8fe4ed1731b8b42f50754bf3f1a /home/tg/catkin_ws/devel/lib/python2.7/dist-packages/my_robot_msgs/srv/__init__.py
 dd2c4d19c8a6fabb2052287b7f5ab359 /home/tg/catkin_ws/devel/share/common-lisp/ros/my_robot_msgs/msg/HardwareStatus.lisp
+c3aa8bf1c077e8330b7752d89e31d9cb /home/tg/catkin_ws/devel/share/common-lisp/ros/my_robot_msgs/srv/ComputeDiskArea.lisp
+65cee2a0e774ae9cc7c5ec0d9c08240b /home/tg/catkin_ws/devel/share/common-lisp/ros/my_robot_msgs/srv/ControlLED.lisp
 70655ccc34f2a30270016a2b0cd5b733 /home/tg/catkin_ws/devel/share/gennodejs/ros/my_robot_msgs/msg/HardwareStatus.js
+161adaa58776c90ece8c96ca9968e63f /home/tg/catkin_ws/devel/share/gennodejs/ros/my_robot_msgs/srv/ComputeDiskArea.js
+4c72f48f0388454f289b37f484878fa4 /home/tg/catkin_ws/devel/share/gennodejs/ros/my_robot_msgs/srv/ControlLED.js
 f3deaf7c1c2e61a8368ebe75b74eae20 /home/tg/catkin_ws/devel/share/roseus/ros/my_robot_msgs/manifest.l
 45beb74414f40daab9d278c58b0c1965 /home/tg/catkin_ws/devel/share/roseus/ros/my_robot_msgs/msg/HardwareStatus.l
+8cd24808f5564c6d1449e23f07e45ab2 /home/tg/catkin_ws/devel/share/roseus/ros/my_robot_msgs/srv/ComputeDiskArea.l
+6c900a366422d955b1bd33c172c25347 /home/tg/catkin_ws/devel/share/roseus/ros/my_robot_msgs/srv/ControlLED.l
 2e60803cc67dfdc636ec8fd7b012e01a CMakeFiles/clean_test_results
+d2ae1f48bbb71028630c6c3cd939c8bd my_robot_msgs/CMakeFiles/_my_robot_msgs_generate_messages_check_deps_ComputeDiskArea
+5ee2f0a6bb3d379a7830bd0123484cc8 my_robot_msgs/CMakeFiles/_my_robot_msgs_generate_messages_check_deps_ControlLED
 8ea39189024f105afb2d99635fec10a1 my_robot_msgs/CMakeFiles/_my_robot_msgs_generate_messages_check_deps_HardwareStatus
 5e46cb0ae7dc0d2fe9a187b5900dfb79 my_robot_msgs/CMakeFiles/my_robot_msgs_generate_messages_cpp
 5e46cb0ae7dc0d2fe9a187b5900dfb79 my_robot_msgs/CMakeFiles/my_robot_msgs_generate_messages_eus
