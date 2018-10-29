@@ -28,6 +28,14 @@
 /home/tg/catkin_ws/build/gtest/gtest/CMakeFiles/gtest_main.dir
 /home/tg/catkin_ws/build/gtest/gtest/CMakeFiles/install/strip.dir
 /home/tg/catkin_ws/build/gtest/gtest/CMakeFiles/install/local.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/rebuild_cache.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/edit_cache.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/list_install_components.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/install.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/_catkin_empty_exported_target.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/install/local.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/install/strip.dir
+/home/tg/catkin_ws/build/my_robot_bringup/CMakeFiles/test.dir
 /home/tg/catkin_ws/build/my_robot_msgs/CMakeFiles/edit_cache.dir
 /home/tg/catkin_ws/build/my_robot_msgs/CMakeFiles/test.dir
 /home/tg/catkin_ws/build/my_robot_msgs/CMakeFiles/install/local.dir

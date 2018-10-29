@@ -7,11 +7,18 @@ int main (int argc, char **argv)
 	ros::NodeHandle nh;
 	ros::Publisher pub = nh.advertise<std_msgs::Int64>("/number",10);
 
-	ros::Rate rate(3);
+	double publish_frequency;
+	nh.getParam("/number_publish_frequency", publish_frequency);
+	ros::Rate rate(publish_frequency);
+
+	int number;
+	nh.getParam("/number_to_publish", number);
+
+	nh.setParam("/just_another_param", "Bye");
 
 	while (ros::ok()) {
 		std_msgs::Int64 msg;
-		msg.data = 45;
+		msg.data = number;
 		pub.publish(msg);
 		rate.sleep();
 	}
